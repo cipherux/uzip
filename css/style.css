@@ -1,0 +1,94 @@
+@font-face {
+    font-family: segoeui;
+    src: url('segoeui.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: centuryGothic;
+    src: url('gothics.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: calibri;
+    src: url('calibri.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+	background: #585858;
+	font-family: segoeui;
+}
+
+.copyins {
+	color: #FFF;
+}
+.copyins:visited {
+	color: #FFF;
+}
+
+#container {
+	width: 980px;
+	margin: 0px auto;
+	background: #FFF;
+	height: 600px;
+	-moz-box-shadow: 5px 5px 5px rgba(68,68,68,0.6);
+	-webkit-box-shadow: 5px 5px 5px rgba(68,68,68,0.6);
+	box-shadow: 5px 5px 5px rgba(68,68,68,0.6);
+	margin-top: 35px;
+}
+.retroinput {
+	width:250px;
+	height:27px;
+	font-size: 14px;
+	font-family: segoeui;
+	padding: 5px;
+	color: #000;
+}
+.retroinput:focus {
+	outline: none;
+}
+	
+
+.metroinput {
+	width:800px;
+	height:40px;
+	font-size: 20px;
+	font-family: segoeui;
+	padding: 3px;
+	color: #000;
+	font-weight: bold;
+}
+.metroinput:focus {
+	outline: none;
+}
+
+.retrobutton {
+	font-size: 20px;
+	font-family: segoeui;
+	padding: 3px;
+	background: #000;
+	color: #FFF;
+	border: none;
+	width: 150px;
+	height: 40px;
+}
+
+.retrobutton:hover {
+	background: #FFF;
+	color: #000;
+}
+
+.footer-link {
+	font-family: segoeui;
+	font-size: 14px;
+	margin-right: 30px;
+	text-decoration: none;
+	color: blue;
+}
+
+.footer-link:visited {
+	color: #4617B4;
+}

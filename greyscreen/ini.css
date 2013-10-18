@@ -1,0 +1,32 @@
+#box
+{
+	text-align: center;
+	position: absolute;
+	left: 31%;
+	top: 30%;
+	z-index: 20;
+	
+	color:#FFF;
+	background: #0095ff;
+	width: 500px;
+	height: 205px;
+	background: -webkit-gradient(linear, left top, left bottom, from(#0095ff), to(#0061a7));
+	background: -moz-linear-gradient(top, #0095ff, #0061a7);
+	
+	display: none;
+}
+
+#innerMSG::selection {
+	background: #ffb7b7; /* Safari */
+	}
+#innerMSG::-moz-selection {
+	background: #ffb7b7; /* Firefox */
+}
+
+#screen
+{
+	position: absolute;
+	left: 0;
+	top: 0;
+	background: #000;
+}
