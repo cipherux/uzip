@@ -3,12 +3,12 @@
 	<link type="text/css" rel="stylesheet" href="css/style.css" />
 	<title>UZIP: An Open Source URL Shortener</title>
 	<meta name="description" content="UZIP is an open source URL shortening script that allows you to shorten long internet URL. Developed under R&D  Hocrox Infotech Pvt. Ltd." />
-	<meta name="keywords" content="url shortener, url shortener for my website, create a url shortener, download free url shortening script, download free url shortener, free url shortner, uzip, hocrox infotech, codemink"/>
+	<meta content="url shortener, url shortener for my website, create a url shortener, download free url shortening script, download free url shortener, free url shortner, uzip, hocrox infotech, codemink"/>
 	<meta name="author" content="hocrox" />
 	<link rel="image_src" href="img/logoFB.png" />
 	<style type="text/css">
 		table.gridtable {
-			font-family: verdana,arial,sans-serif;
+			font-family: 
 			font-size:11px;
 			color:#333333;
 			border-width: 1px;
